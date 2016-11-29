@@ -202,6 +202,27 @@ hr.small {
     background-color: #337ab7;
 }
 
+.devicon{
+  font-size: 70px;
+  font-weight: 400;
+  margin-right: 10px;
+}
+
+.skill-header{
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+
+.icon{
+  font-size: 35px;
+  list-style: none;
+}
+
+.skillset{
+  padding: 50px 0;
+  background-color: #17354e;
+}
+
 .portfolio-item {
     margin-bottom: 30px;
 }
