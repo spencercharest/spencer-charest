@@ -292,3 +292,16 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.app-description {
+  height: 150px;
+}
+
+#x-ray, #x-ray:visited, #x-ray:link, #x-ray:active {
+  color: black;
+  text-decoration: none;
+}
+
+#x-ray:hover {
+  color: white;
+}
