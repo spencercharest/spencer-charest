@@ -243,14 +243,6 @@ hr.small {
     margin-bottom: 30px;
 }
 
-.img-portfolio {
-    margin: 0 auto;
-}
-
-.img-portfolio:hover {
-    opacity: 0.8;
-}
-
 h2{
     color: #fff;
 }
@@ -293,15 +285,16 @@ footer {
   right: 5px;
 }
 
-.app-description {
-  height: 150px;
-}
-
-#x-ray, #x-ray:visited, #x-ray:link, #x-ray:active {
+.app-description a {
   color: black;
-  text-decoration: none;
 }
 
-#x-ray:hover {
-  color: white;
+.img-portfolio {
+    margin: 0 auto;
+    height: 250px;
+    width: 450px;
+}
+
+.img-portfolio:hover {
+    opacity: 0.8;
 }
