@@ -289,6 +289,10 @@ footer {
     height: 250px;
 }
 
+.app-description-sm {
+    height: 100px;
+}
+
 .app-description a {
   color: black;
 }
