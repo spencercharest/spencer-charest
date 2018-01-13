@@ -285,6 +285,10 @@ footer {
   right: 5px;
 }
 
+.app-description {
+    height: 250px;
+}
+
 .app-description a {
   color: black;
 }
@@ -297,4 +301,12 @@ footer {
 
 .img-portfolio:hover {
     opacity: 0.8;
+}
+
+.login {
+    margin: 0px;
+}
+
+.project {
+    border-bottom: 0.5px solid black;
 }
